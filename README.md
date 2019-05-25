@@ -1,2 +1,2 @@
 # DevBlog
-Website blog cá nhân, sử dụng PHP th
+Website blog cá nhân, sử dụng PHP thuần
